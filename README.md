@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/fernandaalves-dotcom/fernandaalves-dotcom.git" width="250">
+<img src="gif.mp4" width="250">
 </p>
 
 ---
@@ -17,8 +17,8 @@
 <p align="center">
 🌱 Estudando <b>SQL, Power BI e Banco de Dados</b><br>
 📊 Interesse em <b>Análise de Dados e Business Intelligence</b><br>
-🌳 Experiência profissional no setor <b>Florestal</b><br>
-📚 Apaixonada por <b>literatura</b>
+🌳 Experiência Profissional no setor <b>Florestal</b><br>
+📚 Apaixonada por <b>Literatura</b>
 </p>
 
 ---
@@ -30,7 +30,7 @@
 # 🎓 Formação
 
 🌾 Técnica em Agropecuária  
-🌱 Graduanda em **Agronomia** (formação prevista para **2026**)
+🌱 Graduanda em **Agronomia** (formação em **2026**)
 
 ---
 
@@ -90,6 +90,9 @@
 </a>
 
 </p>
+
+📧 **Email:** fernandaalves681@gmail.com  
+📱 **Telefone:** (73) 99804-5873  
 
 ---
 
