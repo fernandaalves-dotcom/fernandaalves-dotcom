@@ -1,24 +1,42 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=800&lines=Fernanda+Alves;Future+Data+Analyst;SQL+%7C+Power+BI+%7C+GitHub;Building+my+data+career" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=42&duration=3000&pause=1000&color=0B6623&center=true&vCenter=true&width=900&lines=Fernanda+Alves;Future+Data+Analyst;SQL+%7C+Power+BI+%7C+GitHub;Building+my+data+career"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/fernandaalves-dotcom/fernandaalves-dotcom.git" width="250">
 </p>
 
 ---
 
 <p align="center">
-<img src="COLE_AQUI_O_LINK_DO_SEU_GIF" width="250">
+🌿 🌱 🌳 🌱 🌿
 </p>
-
----
 
 <h1 align="center">Olá, eu sou a Fernanda 👋</h1>
 
 <p align="center">
 🌱 Estudando <b>SQL, Power BI e Banco de Dados</b><br>
 📊 Interesse em <b>Análise de Dados e Business Intelligence</b><br>
-🌳 Experiência profissional no setor <b>Florestal</b>
+🌳 Experiência profissional no setor <b>Florestal</b><br>
+📚 Apaixonada por <b>literatura</b>
 </p>
 
 ---
+
+<p align="center">
+🌿 🌱 🌳 🌱 🌿
+</p>
+
+# 🎓 Formação
+
+🌾 Técnica em Agropecuária  
+🌱 Graduanda em **Agronomia** (formação prevista para **2026**)
+
+---
+
+<p align="center">
+🌿 🌱 🌳 🌱 🌿
+</p>
 
 # 🚀 Tecnologias e Ferramentas
 
@@ -30,13 +48,13 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="70"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="70"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70"/>
-
 </p>
 
 ---
+
+<p align="center">
+🌿 🌱 🌳 🌱 🌿
+</p>
 
 # 📚 Atualmente estudando
 
@@ -47,17 +65,9 @@
 
 ---
 
-# 📊 Estatísticas GitHub
-
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandaalves-dotcom&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaalves-dotcom&layout=compact&theme=tokyonight"/>
-
+🌿 🌱 🌳 🌱 🌿
 </p>
-
----
 
 # 📂 Projetos
 
@@ -67,17 +77,25 @@
 
 ---
 
+<p align="center">
+🌿 🌱 🌳 🌱 🌿
+</p>
+
 # 📫 Contato
 
 <p align="center">
 
-<a href="COLE_SEU_LINKEDIN_AQUI">
+<a href="https://www.linkedin.com/in/fernanda-alves-45b82120a">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
 
 ---
+
+<p align="center">
+🌿 🌱 🌳 🌱 🌿
+</p>
 
 # 🐍 Contribuições
 
