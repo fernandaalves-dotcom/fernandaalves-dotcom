@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="gif.mp4" width="250">
+<img src="Caricature.png" width="250">
 </p>
 
 ---
@@ -12,13 +12,19 @@
 🌿 🌱 🌳 🌱 🌿
 </p>
 
-<h1 align="center">Olá, eu sou a Fernanda 👋</h1>
+<h1 align="center">
+Olá, eu sou a Fernanda
+</h1>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/fernandaalves-dotcom/fernandaalves-dotcom/main/fernanda.png" width="220">
+</p>
 
 <p align="center">
 🌱 Estudando <b>SQL, Power BI e Banco de Dados</b><br>
 📊 Interesse em <b>Análise de Dados e Business Intelligence</b><br>
 🌳 Experiência Profissional no setor <b>Florestal</b><br>
-📚 Apaixonada por <b>Literatura</b>
+📚 Apaixonada por <b>literatura</b>
 </p>
 
 ---
@@ -30,7 +36,7 @@
 # 🎓 Formação
 
 🌾 Técnica em Agropecuária  
-🌱 Graduanda em **Agronomia** (formação em **2026**)
+🌱 Graduanda em **Agronomia** {formação em **2026**}
 
 ---
 
@@ -56,31 +62,6 @@
 🌿 🌱 🌳 🌱 🌿
 </p>
 
-# 📚 Atualmente estudando
-
-📌 SQL (queries, joins e modelagem de dados)  
-📌 Power BI (visualização e dashboards)  
-📌 Git e GitHub  
-📌 Banco de dados relacionais  
-
----
-
-<p align="center">
-🌿 🌱 🌳 🌱 🌿
-</p>
-
-# 📂 Projetos
-
-🔹 Modelagem de Banco de Dados – E-commerce  
-🔹 Estudos de SQL (JOIN, GROUP BY, HAVING)  
-🔹 Dashboards Power BI  
-
----
-
-<p align="center">
-🌿 🌱 🌳 🌱 🌿
-</p>
-
 # 📫 Contato
 
 <p align="center">
@@ -89,10 +70,15 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-</p>
+<a href="mailto:fernandaalves681@gmail.com">
+<img src="https://img.shields.io/badge/Email-0B6623?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-📧 **Email:** fernandaalves681@gmail.com  
-📱 **Telefone:** (73) 99804-5873  
+<a href="tel:+5573998045873">
+<img src="https://img.shields.io/badge/Telefone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
