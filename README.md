@@ -22,60 +22,6 @@ Olá, eu sou a Fernanda
 🌿 🌱 🌳 🌱 🌿
 </p>
 
-# 🎓 Formação
-
-🌾 Técnica em Agropecuária  
-🌱 Graduanda em **Agronomia** {formação em **2026**}
-
----
-
-<p align="center">
-🌿 🌱 🌳 🌱 🌿
-</p>
-
-# 🚀 Tecnologias e Ferramentas
-
-<p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="70"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="70"/>
-
-</p>
-
----
-
-<p align="center">
-🌿 🌱 🌳 🌱 🌿
-</p>
-
-# 📚 Atualmente estudando
-
-📌 SQL (queries, joins e modelagem de dados)  
-📌 Power BI (visualização e dashboards)  
-📌 Git e GitHub  
-📌 Banco de dados relacionais  
-
----
-
-<p align="center">
-🌿 🌱 🌳 🌱 🌿
-</p>
-
-# 📂 Projetos
-
-🔹 Modelagem de Banco de Dados – E-commerce  
-🔹 Estudos de SQL (JOIN, GROUP BY, HAVING)  
-🔹 Dashboards Power BI  
-
----
-
-<p align="center">
-🌿 🌱 🌳 🌱 🌿
-</p>
-
 # 📫 Contato
 
 <p align="center">
@@ -100,12 +46,4 @@ Olá, eu sou a Fernanda
 🌿 🌱 🌳 🌱 🌿
 </p>
 
-# 🐍 Contribuições
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fernandaalves-dotcom/fernandaalves-dotcom/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fernandaalves-dotcom/fernandaalves-dotcom/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/fernandaalves-dotcom/fernandaalves-dotcom/output/github-contribution-grid-snake.svg">
-</picture>
-</p>
