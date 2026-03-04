@@ -1,23 +1,10 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=42&duration=3000&pause=1000&color=0B6623&center=true&vCenter=true&width=900&lines=Fernanda+Alves;Future+Data+Analyst;SQL+%7C+Power+BI+%7C+GitHub;Building+my+data+career"/>
-</p>
-
-<p align="center">
-<img src="Caricature.png" width="250">
-</p>
-
----
-
-<p align="center">
-🌿 🌱 🌳 🌱 🌿
+<img src="Caricature.png" width="260">
 </p>
 
 <h1 align="center">
-Olá, eu sou a Fernanda !
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/fernandaalves-dotcom/fernandaalves-dotcom/main/fernanda.png" width="220">
-</p>
+Olá, eu sou a Fernanda
+</h1>
 
 <p align="center">
 🌱 Estudando <b>SQL, Power BI e Banco de Dados</b><br>
@@ -54,6 +41,31 @@ Olá, eu sou a Fernanda !
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="70"/>
 
 </p>
+
+---
+
+<p align="center">
+🌿 🌱 🌳 🌱 🌿
+</p>
+
+# 📚 Atualmente estudando
+
+📌 SQL (queries, joins e modelagem de dados)  
+📌 Power BI (visualização e dashboards)  
+📌 Git e GitHub  
+📌 Banco de dados relacionais  
+
+---
+
+<p align="center">
+🌿 🌱 🌳 🌱 🌿
+</p>
+
+# 📂 Projetos
+
+🔹 Modelagem de Banco de Dados – E-commerce  
+🔹 Estudos de SQL (JOIN, GROUP BY, HAVING)  
+🔹 Dashboards Power BI  
 
 ---
 
