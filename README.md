@@ -13,8 +13,7 @@
 </p>
 
 <h1 align="center">
-Olá, eu sou a Fernanda
-</h1>
+Olá, eu sou a Fernanda !
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/fernandaalves-dotcom/fernandaalves-dotcom/main/fernanda.png" width="220">
